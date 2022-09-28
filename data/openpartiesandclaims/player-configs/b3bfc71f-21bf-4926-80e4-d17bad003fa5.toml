@@ -1,0 +1,38 @@
+
+[playerConfig]
+
+	[playerConfig.parties]
+		name = ""
+		shareLocationWithParty = true
+		shareLocationWithMutualAllyParties = false
+		receiveLocationsFromParty = true
+		receiveLocationsFromMutualAllyParties = false
+
+	[playerConfig.claims]
+		name = ""
+		bonusChunkClaims = 0
+		color = 0
+		bonusChunkForceloads = 0
+		protectClaimedChunks = true
+
+		[playerConfig.claims.protection]
+			fromParty = true
+			fromAllyParties = true
+			blocksFromExplosions = true
+			fromMobGriefing = true
+			fromFireSpread = true
+			entitiesFromPlayers = true
+			entitiesFromMobs = true
+			entitiesFromAnonymousAttacks = true
+			entitiesFromExplosions = true
+			chorusFruitTeleport = true
+			playerLightning = true
+			allowSomeBlockInteractions = true
+			allowSomeBlockBreaking = true
+			allowSomeEntityInteractions = true
+			allowSomeEntityKilling = true
+
+		[playerConfig.claims.forceload]
+			enabled = true
+			offlineForceload = false
+
