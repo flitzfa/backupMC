@@ -1479,6 +1479,7 @@
       "minecraft:turtle": "2022-08-02 18:05:43 -0300",
       "minecraft:sheep": "2022-07-02 23:52:41 -0300",
       "minecraft:cow": "2022-07-24 22:38:59 -0300",
+      "minecraft:chicken": "2022-09-28 20:24:09 -0300",
       "minecraft:wolf": "2022-07-21 21:00:50 -0300"
     },
     "done": false
@@ -2707,6 +2708,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2022-09-29 14:30:30 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2022-07-02 23:16:34 -0300"
@@ -3051,6 +3058,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2022-09-29 18:24:53 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
     "criteria": {
       "has_diamond_ore": "2022-08-02 18:16:43 -0300"
@@ -3186,6 +3199,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2022-07-10 02:22:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2022-09-29 12:38:44 -0300"
     },
     "done": true
   },
@@ -3815,6 +3834,7 @@
       "potato": "2022-07-19 03:06:00 -0300",
       "bread": "2022-07-02 22:33:15 -0300",
       "golden_apple": "2022-08-25 17:10:57 -0300",
+      "golden_carrot": "2022-10-01 09:55:13 -0300",
       "cod": "2022-09-09 23:20:12 -0300"
     },
     "done": false
