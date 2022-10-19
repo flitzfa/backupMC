@@ -713,6 +713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2022-10-14 01:50:29 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2022-07-10 01:24:23 -0300"
@@ -2054,6 +2060,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2022-10-14 01:50:29 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/mangrove_fence_gate": {
     "criteria": {
       "has_planks": "2022-09-02 01:39:55 -0300"
@@ -2510,6 +2522,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2022-10-14 01:50:29 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2022-08-04 18:27:44 -0300"
@@ -2732,6 +2750,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2022-10-14 01:50:29 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-07-02 22:08:59 -0300"
@@ -2908,6 +2932,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2022-10-14 02:12:00 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-07-25 18:37:43 -0300"
@@ -2953,6 +2983,12 @@
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2022-08-25 18:12:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2022-10-14 02:12:00 -0300"
     },
     "done": true
   },
@@ -3451,6 +3487,7 @@
       "minecraft:forest": "2022-07-02 22:37:28 -0300",
       "minecraft:lush_caves": "2022-07-02 22:06:18 -0300",
       "minecraft:deep_cold_ocean": "2022-08-08 20:31:13 -0300",
+      "minecraft:ice_spikes": "2022-10-10 15:47:29 -0300",
       "minecraft:frozen_ocean": "2022-07-02 22:20:39 -0300",
       "minecraft:desert": "2022-08-03 21:30:20 -0300",
       "minecraft:deep_frozen_ocean": "2022-07-02 22:28:11 -0300",
@@ -3564,6 +3601,12 @@
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2022-07-19 22:00:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2022-10-14 02:12:00 -0300"
     },
     "done": true
   },
@@ -3873,6 +3916,7 @@
       "sweet_berries": "2022-07-02 22:01:44 -0300",
       "chorus_fruit": "2022-08-04 16:34:02 -0300",
       "baked_potato": "2022-07-10 01:18:50 -0300",
+      "apple": "2022-10-07 01:32:25 -0300",
       "potato": "2022-07-19 03:06:00 -0300",
       "bread": "2022-07-02 22:33:15 -0300",
       "golden_apple": "2022-08-25 17:10:57 -0300",
